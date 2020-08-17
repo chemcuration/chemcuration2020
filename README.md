@@ -10,6 +10,7 @@ the underlying Markdown in that [docs folder](https://github.com/chemcuration/ch
 Being established, to be announced.
 
 * Egon Willighagen, [@egonwillighagen](https://twitter.com/egonwillighagen), [0000-0001-7542-0286](https://orcid.org/0000-0001-7542-0286), Maastricht University (ROR:[02jz4aj89](https://ror.org/02jz4aj89))
+* Justin J.J. van der Hooft, [@jjjvanderhooft](https://twitter.com/jjjvanderhooft), [0000-0002-9340-5511](https://orcid.org/0000-0002-9340-5511), Wageningen Universtiy and Research (ROR:[04qw24q55](https://ror.org/04qw24q55))
 
 ### Scientific Committee
 
