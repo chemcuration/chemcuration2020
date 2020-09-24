@@ -18,7 +18,7 @@ chemistry. This includes but is not limited to:
 
 ## Date and Venue
 
-ChemCuration 2020 will take place later this year. The venue is Twitter&nbsp;[1].
+ChemCuration 2020 will take place on Wednesday December 16 2020. The venue is Twitter&nbsp;[1].
 
 ## More soon
 
